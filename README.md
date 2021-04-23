@@ -32,7 +32,7 @@ As of now, the bot is not hosted, so you will need to figure out how to host it 
   - [Daily leetcode problems](#daily-leetcodes)
   - [Adding more problems](#adding-more-problems) 
 - [Further development](#further-development)
-- [License & copyright](#license-&-copyright)  
+- [License & copyright](#license-and-copyright)  
 
 ## Requirements
 
@@ -150,7 +150,7 @@ It would be neat if:
 - Someone could host the bot permanently and publicly, so other people could more easily implement the bot in their server 
 - A more efficient database implementation was done. 
 
-## License & Copyright
+## License and Copyright
 
 leetcode.com , its content, website and branding are a property of LeetCode LLC. 
 
