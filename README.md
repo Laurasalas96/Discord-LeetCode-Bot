@@ -25,7 +25,7 @@ As of now, the bot is not hosted, so you will need to figure out how to host it 
 
 ## Table of contents
 
-- [Requirements][#requirements] 
+- [Requirements](#requirements) 
 - [Getting started](#getting-started) 
 - [Usage](#usage)
   - [Commands for requesting a problem](#commands) 
