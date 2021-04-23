@@ -32,7 +32,7 @@ As of now, the bot is not hosted, so you will need to figure out how to host it 
   - [Daily leetcode problems](#daily-leetcodes)
   - [Adding more problems](#adding-more-problems) 
 - [Further development](#further-development)
-- [License & copyright](#license-copyright)  
+- [License & copyright](#license-&-copyright)  
 
 ## Requirements
 
