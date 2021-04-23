@@ -33,6 +33,7 @@ As of now, the bot is not hosted, so you will need to figure out how to host it 
   - [Adding more problems](#adding-more-problems) 
 - [Further development](#further-development)
 - [License & copyright](#license-and-copyright)  
+- [Special thanks](#special-thanks)
 
 ## Requirements
 
@@ -160,3 +161,6 @@ This bot is free to use anywhere.
 
 [Like this bot? Buy me a pizza slice on Patreon :-)](https://www.patreon.com/laurascode)
 
+## Special Thanks 
+1. Emma
+2. my cat
