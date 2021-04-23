@@ -2,7 +2,7 @@
 
 A little LeetCode ("yeetcode") bot that:
 
-1. Hands out a set of leetcode problems of easy,medium and hard difficulty once a day on a specific channel with the following message:
+1. Hands out a daily set of leetcode problems of one easy, one medium and one hard problem on a specific channel with the following message:
 
    > Heeeelllooo! here are today's daily leetcodes #24: 
    >     LC easy for those that want to take it easy:  https://leetcode.com/problems/design-hashmap
